@@ -1,7 +1,6 @@
-Introduction of Spark with Jupyter Notebook
+Introduction of PySpark with Jupyter Notebook
 
-In this repo, pypsark will be studied
-
+In this repo, pyspark will be studied
 
 For pyspark windows version installation, please see refernece: 
 
