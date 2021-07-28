@@ -2,8 +2,8 @@ Introduction of PySpark with Jupyter Notebook
 
 In this repo, pyspark will be studied
 
-For pyspark windows version installation, please see refernece: 
 
+For pyspark windows version installation, please see refernece: 
 https://towardsdatascience.com/installing-apache-pyspark-on-windows-10-f5f0c506bea1
 
 
