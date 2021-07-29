@@ -1,4 +1,4 @@
-Introduction of PySpark with Jupyter Notebook
+Introduction to PySpark with Jupyter Notebook
 
 In this repo, pyspark will be studied
 
